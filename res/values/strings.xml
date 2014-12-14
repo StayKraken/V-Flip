@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_finish" translatable="false">Finish</string>
+	<string name="action_help" translatable="false">Help</string>
+	<string name="action_next" translatable="false">Next</string>
+	<string name="action_previous" translatable="false">Previous</string>
+    <string name="app_name" translatable="false">V-Flip</string>
+    <string name="description" translatable="false">Description</string>
+    <string name="developer" translatable="false">Alberto Nava, 2014</string>
+    <string name="exit" translatable="false">Exit</string>
+    <string name="game_rules" translatable="false">Game Rules</string>
+	<string name="intro" translatable="false">Touch a Tile to Begin</string>
+	<string name="help" translatable="false">Help</string>
+	<string name="help_text0" translatable="false">V-Flip consists of a 6 x 6 grid of tiles.</string>
+	<string name="help_text1" translatable="false">The red 5 x 5 tiles are the gameboard.</string>
+	<string name="help_text2" translatable="false">Top value gives the sum of numbers behind the tiles for each row.</string>
+	<string name="help_text3" translatable="false">Bottom value gives the sum of X values. </string>
+	<string name="help_text4" translatable="false">Top value gives the sum of numbers behind the tiles for each column.</string>
+	<string name="help_text5" translatable="false">Bottom value gives the sum of X values. </string>
+	<string name="help_text6" translatable="false">The red tiles consist of the numeric values 1, 2, and 3.</string>
+	<string name="help_text7" translatable="false">Each numeric value serves as a score multiplier.</string>
+	<string name="help_text8" translatable="false">Player wins when all 2 and 3 values are found.</string>
+	<string name="help_text9" translatable="false">Game ends if player flips an X.</string>
+	<string name="loading" translatable="false">Loading...</string>
+	<string name="main_menu" translatable="false">Main Menu</string>
+	<string name="new_game" translatable="false">New Game</string>
+	<string name="play" translatable="false">Play</string>
+	<string name="reset" translatable="false">Reset</string>
+	<string name="score" translatable="false">Score</string>
+	<string name="temp" translatable="false">10</string>
+	<string name="test_version" translatable="false">Test Version</string>
+	<string name="version" translatable="false">v0.9.9.8.5</string>
+</resources>
